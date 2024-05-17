@@ -56,7 +56,7 @@ google-cloud-documentai==2.25.0
 google-cloud-resource-manager==1.12.3
 google-cloud-storage==2.16.0
 google-crc32c==1.5.0
-google-generativeai==0.5.1
+google-generativeai==0.5.4
 google-resumable-media==2.7.0
 googleapis-common-protos==1.63.0
 gradio==3.50.2
